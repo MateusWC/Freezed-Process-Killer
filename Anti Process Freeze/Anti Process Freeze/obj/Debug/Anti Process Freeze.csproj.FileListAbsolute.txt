@@ -1,0 +1,13 @@
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Anti Process Freeze.csprojAssemblyReference.cache
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Anti_Process_Freeze.Form1.resources
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Anti_Process_Freeze.Notification.resources
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Anti Process Freeze.csproj.GenerateResource.cache
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Anti Process Freeze.csproj.CoreCompileInputs.cache
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Anti Process Freeze.csproj.CopyComplete
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\bin\Debug\Freezed-Process Killer.exe.config
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\bin\Debug\Freezed-Process Killer.exe
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\bin\Debug\Freezed-Process Killer.pdb
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Freezed_Process_Killer.Properties.Resources.resources
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Freezed-Process Killer.exe
+C:\Users\MATHEUS\source\repos\Anti Process Freeze\Anti Process Freeze\obj\Debug\Freezed-Process Killer.pdb
