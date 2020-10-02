@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anti Process Freeze", "Anti Process Freeze\Anti Process Freeze.csproj", "{EBA4D80B-2650-49F4-8036-4A69FD1E82AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA4D80B-2650-49F4-8036-4A69FD1E82AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA4D80B-2650-49F4-8036-4A69FD1E82AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA4D80B-2650-49F4-8036-4A69FD1E82AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA4D80B-2650-49F4-8036-4A69FD1E82AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {395F3E8A-F28C-4044-BB6D-30650AD11D72}
+	EndGlobalSection
+EndGlobal
