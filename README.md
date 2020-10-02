@@ -22,12 +22,12 @@ Process(PID or Name): You need the process id or process name, you can get in ta
 Process(PID or Name): Chrome
 ```
 
-Check Delay(ms): The delay of check the process, verify if process not responding, in milliseconds.
+Check Delay(ms): The delay of check the process, verify if process not responding, in milliseconds, example:
 ```
 Check Delay(ms): 1000
 ```
 
-Confirmation Number(to kill a process): The number of confirmations that will need to kill a process 
+Confirmation Number(to kill a process): The number of confirmations that will need to kill a process, example:
 ```
 Confirmation Number(to kill a process): 3 //will check 3 times in 1000ms = 1s
 ```
