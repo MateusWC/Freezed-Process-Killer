@@ -110,7 +110,7 @@ namespace Anti_Process_Freeze
                         Errors++;
                     if (Errors == int.Parse(bunifuMaterialTextbox3.Text))
                     {
-                        new Notification($"Processo {process[0].ProcessName}\nFinalizado!").ShowDialog();
+                        new Notification($"Process {process[0].ProcessName}\nFinalized!").ShowDialog();
                         process[0].Kill();
                         Reset();
                         break;
