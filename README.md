@@ -48,7 +48,7 @@ Confirmation Number(to kill a process): 3 //will check 3 times in 1000ms = 1s
 
 ## ✒️ Author
 
-* **MateusWC** - [Perfil](https://github.com/MateusWC)
+* **MateusWC** - [Profile](https://github.com/MateusWC)
 
 ## 📄 Licence
 
