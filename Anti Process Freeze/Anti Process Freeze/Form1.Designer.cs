@@ -124,9 +124,9 @@
             this.bunifuCustomLabel1.ForeColor = System.Drawing.Color.Silver;
             this.bunifuCustomLabel1.Location = new System.Drawing.Point(51, 9);
             this.bunifuCustomLabel1.Name = "bunifuCustomLabel1";
-            this.bunifuCustomLabel1.Size = new System.Drawing.Size(318, 20);
+            this.bunifuCustomLabel1.Size = new System.Drawing.Size(273, 20);
             this.bunifuCustomLabel1.TabIndex = 0;
-            this.bunifuCustomLabel1.Text = "FPK By MateGPlay | Discord: Mate#7375";
+            this.bunifuCustomLabel1.Text = "FPK By Mate | Discord: Mate#7375";
             // 
             // bunifuMaterialTextbox1
             // 
