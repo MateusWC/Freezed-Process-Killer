@@ -35,9 +35,11 @@ Confirmation Number(to kill a process): 3 //will check 3 times in 1000ms = 1s
 ### 🖼️ Screenshots
 
 
-![alt text](https://prnt.sc/us2uz7)
+![alt text](https://github.com/MateusWC/Freezed-Process-Killer/blob/main/images/img1.png)
 
-![alt text](https://prnt.sc/us30dl)
+![alt text](https://github.com/MateusWC/Freezed-Process-Killer/blob/main/images/img2.png)
+
+![alt text](https://github.com/MateusWC/Freezed-Process-Killer/blob/main/images/img3.png)
 
 
 ## 🛠️ Framework Used
